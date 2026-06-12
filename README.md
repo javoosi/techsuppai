@@ -1,2 +1,2 @@
 # techsuppai
-automotive diagnostic by artificial intelligence support
+Automotive Diagnostic by Artificial Intelligence Support
